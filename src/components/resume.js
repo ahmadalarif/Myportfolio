@@ -27,7 +27,7 @@ class Resume extends Component {
                         <p>Email</p>
                         <p>alarif3@gmail.com</p>
                         <h5>Web</h5>
-                        <p>mywebsite.com</p>
+                        <p> https://ahmadportfolio.herokuapp.com/</p>
                         <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
 
                     </Cell>
