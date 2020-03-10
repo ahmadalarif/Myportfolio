@@ -24,7 +24,7 @@ class Landing extends Component {
                                  <i className="fab fa-github-square" aria-hidden="true"/>
                              </a>
                              {/* Youtube */}
-                             <a href="https://www.youtube.com/watch?v=jCNt_71G-xY&feature=youtu.be" rel="noopener noreferrer" target="_blank">
+                             <a href="https://player.vimeo.com/video/396622326" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen    rel="noopener noreferrer" target="_blank">
                                  <i className="fab fa-youtube-square" aria-hidden="true"/>
                              </a>
                          </div>
