@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Card, CardTitle, CardText,CardMenu } from 'react-mdl';
 import Cr from './Cr.png';
-import BADegree from './BADegree.png'
+import BADegree from './0001.jpg'
 
 
 class certificate extends Component {
@@ -10,7 +10,7 @@ class certificate extends Component {
             <div className='certificate-body'>
 <Card shadow={0} style={{width: '512px', margin: 'auto'}}>
     <CardTitle style={{color: '#ffff', height: '340px'}}><img src={Cr} alt='cr' style={{ width:'810px', overflow: 'hidden', position: 'center', margin: 'auto',crop:"fill", effect:"sepia", radius:'20'}}/></CardTitle>
-    <CardText>Full stack web devlopment certificate</CardText>
+    <CardText>Full stack web development certificate</CardText>
     <CardMenu style={{color: '#fff'}}>
     </CardMenu>
             </Card>
